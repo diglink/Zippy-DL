@@ -1,5 +1,5 @@
 {
-  "name": "zippydl",
+  "name": "zippydl2",
   "version": "2.2.3",
   "description": "Just Simple Zippyshare Downloader Using Node.js CLI",
   "main": "app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anasrar/Zippy-DL"
+    "url": "https://github.com/diglink/Zippy-DL"
   },
   "keywords": [
     "zippyshare",
